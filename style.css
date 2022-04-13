@@ -195,7 +195,7 @@
  /* home section styling */
  .home {
      display: flex;
-     background: url("https://live.staticflickr.com/65535/51827440525_744c2c860a_k.jpg") no-repeat center;
+     background: url("images/background.jpg") no-repeat center;
      height: 100vh;
      color: #fff;
      min-height: 500px;
