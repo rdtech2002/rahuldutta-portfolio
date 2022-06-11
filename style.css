@@ -447,9 +447,12 @@
      width: 50%;
  }
 
- .skills-content .right .python::before {
-     width: 50%;
+ .skills-content .right .java::before {
+     width: 80%;
  }
+ .skills-content .right .python::before {
+    width: 50%;
+}
 
  .skills-content .right .c::before {
      width: 70%;
