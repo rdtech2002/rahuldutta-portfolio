@@ -644,6 +644,7 @@
  .form-style-6 input[type="button"]:hover {
      background: #43D1AF;
      box-shadow: 0 0 5px #000000;
+     color: #000000;
  }
 
  /* footer section styling */
